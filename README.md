@@ -132,3 +132,10 @@ terraform refresh                       # Atualiza o state com o estado real da 
 
 mock-questions/ - Questões e simulados resolvidos para o exame.
 ```
+## Referências:
+
+- [ Informações sobe o exame](https://developer.hashicorp.com/certifications/terraform-associate)
+- [Exame Learning Path](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
+- [Terraform Associate (004) Study Notes curso](https://cloudfluently.com/dashboard/courses/hashicorp-terraform-associate-004-study-notes/lessons/1e2f4123-cdef-493a-8b5d-8f7f125c1545)
+
+
